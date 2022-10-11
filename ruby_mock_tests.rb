@@ -1,4 +1,4 @@
-load 'ruby_intro_Mixins_dmmehta2_pshah9.rb'
+load 'ruby_src_code.rb'
 
 def scores
   correct = 0
